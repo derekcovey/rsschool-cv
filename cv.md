@@ -13,3 +13,25 @@ Right now I am doing my BCs in Computer Science at Vistula University. During my
 | React.js | Firebase |
 | Express.js | PostgreSQL |
 | C# | Java |
+
+## Education 
+
+Bachelor's degree:
+
++ **Vistula University**
+
+  Computer Science (2019 - present)
+
+Online-courses:
+
++ **Complete FullStack Web Developer Course** ([ZTM](https://zerotomastery.io/))
+
++ **NDG Linux Essentials** ([Cisco](https://www.netacad.com/))
+
+## Languages
+
+English | B2(Upper-Intermediate) IELTS 6.5 - 2019
+Russian | Native
+Uzbek | Native
+Polish | A2.1
+German | A1.1
